@@ -1,1 +1,1 @@
-# [HOW TO] Deploy an AWS Lambda function with own dependencies
+# [HOW TO] Deploy AWS Lambda function with own dependencies
